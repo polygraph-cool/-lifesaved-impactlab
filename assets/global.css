@@ -87,7 +87,8 @@ html {
   outline: none;
   font-weight: 600;
 }
-.main-content a:hover {
+.main-content a:hover,
+.main-content a:focus {
   background-size: 100% 88%;
 }
 .main-content p {
