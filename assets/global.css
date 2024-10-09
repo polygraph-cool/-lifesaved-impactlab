@@ -27,6 +27,21 @@
   font-weight: 800;
 }
 
+
+@font-face {
+  font-display: swap;
+  font-family: "HCo Gotham Narrow SSm";
+  font-weight: 400;
+  src: url("GothamNarrSSm-Book_Web.woff2") format("woff2")
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "HCo Gotham Narrow SSm";
+  font-weight: 700;
+  src: url("GothamNarrSSm-Bold_Web.woff2") format("woff2");
+}
+
 html {
   font-family: "din-2014", "din pro", sans-serif;
   color: #0b0a25;
